@@ -1,2 +1,2 @@
 # ElectionAnalysis  using Spark Scala
-using Data => ls2014.tsv
+using Data => elections2014.tsv
